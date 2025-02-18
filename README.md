@@ -1,6 +1,6 @@
-#Juego Amigo Secreto
+# Juego Amigo Secreto
 
-###descripción del juego
+### Descripción del juego
 
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quien es el **"Amigo Secreto"**.
 
@@ -11,7 +11,7 @@ Los nombres ingresados se mostraran en una lista debajo del input, cuando se agr
 ------------
 
 
-###Funciones
+### Funciones
 - Diseño responsivo
 - Agrega jugadores
 - Valida a los jugadores (manda una alerta si el jugador no escribe su nombre)
@@ -27,4 +27,8 @@ Los nombres ingresados se mostraran en una lista debajo del input, cuando se agr
 - JavaScript
 
 -------
+
+### Estado del proyecto
+En construcción.
+
 
